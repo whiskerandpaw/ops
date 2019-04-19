@@ -1,0 +1,273 @@
+Behavioral
+Behavioral
+Excessive barking
+Anxiety
+Inappropriate urination
+Destructive behavior
+Aggression
+Noise/thunderstorm phobia
+Eating its own feces 
+Fear
+Urine marking ("spraying")
+Cardiopulmonary
+Cardiopulmonary
+Coughing
+Wheezing
+Abnormal breathing
+Fatigue/tired
+Panting
+Collapse
+Fainting
+Murmur
+Death
+Death
+Labored breathing
+Collapse
+Pale gums
+Non responsive
+Bleeding from the mouth, nose, or other body openings
+Dental
+Dental
+Drooling
+Bad breath
+Broken tooth/teeth
+red or bleeding gums
+Excessive plaque or tatar on the teeth
+Mass on gums/in mouth
+Trouble eating
+Loose tooth
+Extra tooth/teeth
+Dermal
+Dermal
+Itchy skin
+Scabs
+Masses
+Fur loss
+Redness
+Crusts
+Itchy/Scratching/Licking
+Pus
+Wound
+Fleas
+Mites
+Odour
+Ear
+Ear
+Shaking head
+Head tilt
+Odor/discharge
+Scratching ear
+Lack of balance
+Redness
+Swollen ear flap
+Endocrine
+Endocrine
+Drinking more
+Peeing more
+Eating more
+Weight gain
+Lethargic
+Weight loss
+Excitable
+Greasy coat
+Diabetic
+Eye
+Eye
+Squinting
+Eye discharge
+Red eye
+Eyelid mass
+Cloudy eye
+Blindness/Vision loss
+Swollen/bulging eye
+Fungal
+Fungal
+Scaley skin lesions
+owner has lesions
+Hair loss
+Cryptococcus
+Upper respiratory systems
+Ringworm
+Gastrointestinal
+Gastrointestinal
+Vomiting
+Diarrhea
+Not eating
+Blood in stool
+Weight loss
+
+Foreign body
+General
+General
+Vaccinations
+Deworming
+Fecal test
+Heartworm test
+General health exam
+Nail trim
+Anal gland expression
+Flea medication
+Genetic
+Genetic
+For a veterinarian to diagnosis
+Gene mutation
+Deformity
+Drug sensitivity
+HeadNeck
+HeadNeck
+Pain
+Head tilt
+Not able to raise head
+Spasms causing pet to cry spontaneously
+Wobbliness
+Weakness in all four legs
+Hematologic
+Hematologic
+Pale gums
+Anemia
+Bleeding
+Black tarry stool
+Blood in stool
+Lethargic
+Loss of Appetite
+Bruising
+Hepatobiliary
+Hepatobiliary
+For a veterinarian to diagnosis
+Yellow/orange coloured skin
+Inappetence/not eating
+Weight loss
+Diarrhea
+Small animal/poor weight gain
+Immunological
+Immunological
+For a veterinarian to diagnosis
+
+Anemia
+Weakness
+Frequent infections
+Fever
+Infectious
+Infectious
+Fever 
+Diarrhea
+Vomiting
+Lethargy
+Nasal/ocular discharge
+Coughing
+
+Recent exposure (kennel)
+Metabolic
+Metabolic
+For a veterinarian to diagnosis
+Diarrhea
+Vomiting
+Weight gain
+Weight loss
+Musculoskeletal
+Musculoskeletal
+Collapse 
+Weakness
+Limping
+
+Arthritis
+Muscle pain
+Swelling
+Fracture
+Reduced mobility
+
+Stiffness 
+Neoplasia
+Neoplasia
+Swollen abdomen
+Sudden weight loss
+Loss of appetite
+Discolored skin
+Lump or Bumps on the body
+Wounds that will not heal
+Constant vomiting and diarrhea
+Neurological
+Neurological
+Unsteady gait
+Loss of feeling pain
+Paralysis
+Problem urinating 
+Painful/sore back
+Weakness
+Wobbly
+Confusion/disorientation
+Circling
+
+Droopy eyelid or lip
+PancreasSpleen
+PancreasSpleen
+For a veterinarian to diagnosis
+Painful abdomen
+Vomiting
+Not eating
+Lethargic 
+Swollen abdomen
+Parasitic
+Parasitic
+Decrease appetite
+Weight Loss
+Anemia
+Vomiting 
+Diarrhea
+Scooting
+Zoonotic;  Some Parasite can be passed from pets to people  
+Coughing
+Itching
+Reproductive
+Reproductive
+For a veterinarian to diagnosis
+Pyometra
+In heat
+Pregnancy
+Bleeding from vula/penis
+Mass on vulva/penis
+Discharge from vula/penis
+Swelling
+Recent breeding
+Abnormal heat cycles
+Testicle(s) missing or undescended
+Differently sized testicles
+Swollen nipples/lactating
+Mammary mass
+Toxic
+Toxic
+Vomiting
+Diarrhea
+Seizures
+Blood in the stool
+Lethargy
+Decreased appetite
+Bruising
+Nosebleeds
+Tremors
+
+Depressed
+Weakness
+Urological
+Urological
+For a veterinarian to diagnosis
+Blood in urine
+Difficulty urinating
+Straining to urinate
+Unable to urinate
+Urinating frequently
+Urinating large volumes
+Urine marking
+Viral
+Viral
+Persistent cough
+Nasal discharge
+Fever
+Eye discharge more so than normal
+Not up to date on vaccines
+Low grade fever
+
+Vomiting
+Diarrhea
+Decreased appetite
+Low energy
